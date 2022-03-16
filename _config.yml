@@ -107,3 +107,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+remote_theme: samarsault/plainwhite-jekyll
